@@ -42,10 +42,15 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-
+https://whimsical.com/6JxwdJLmiC6jt6TyKghCSa
 ----------------------------------------------------------
 ### User Stories
-
+3. An app where you list no longer used computer parts that you're willing to give away for free.  
+A user would be able to list parts for view by potential new owners.
+A user would be able to facilitate mailing of parts through the website, perhaps through UPS or FEDEX pickup, maybe even USPS if they don't kill the postal service. :(
+A user would be able to browse parts and select as needed, maybe listing what they already have for parts to check for compatibility.
+[FedEx API](https://www.fedex.com/en-ca/resources-tools/api.html)
+[MapBox API](https://www.mapbox.com/)
 ----------------------------------------------------------
 ### Wireframes
 https://whimsical.com/E1DcK7L5EzS6ZShp799uJH
