@@ -25,6 +25,8 @@ A user would possibly be able to move up and down on a page, maybe even control 
 A user would be able to list parts for view by potential new owners.
 A user would be able to facilitate mailing of parts through the website, perhaps through UPS or FEDEX pickup, maybe even USPS if they don't kill the postal service. :(
 A user would be able to browse parts and select as needed, maybe listing what they already have for parts to check for compatibility.
+[FedEx API](https://www.fedex.com/en-ca/resources-tools/api.html)
+[MapBox API](https://www.mapbox.com/)
 ---------------------------------------------------------
 
 Make a PR when you're done!
@@ -46,7 +48,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### Wireframes
-
+https://whimsical.com/E1DcK7L5EzS6ZShp799uJH
 ----------------------------------------------------------
 
 Make a PR when you're done!
